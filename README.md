@@ -45,7 +45,7 @@
 
 | # | Platform | Description |
 |---|----------|-------------|
-| 1 | ⭐ [**JustHunt.co**](https://justhunt.co) | 🔥 **Trending** — A powerful discovery platform for new products & launches |
+| 1 | ⭐ [**JustHunt.co**](https://justhunt.co) | 🔥 **Trending** — A powerful discovery platform for new products & launches & get do-follow backlink as well. |
 | 2 | [**Indie Hackers**](https://indiehackers.com) | Community for bootstrapped SaaS founders |
 | 3 | [**Product Hunt**](https://producthunt.com) | The #1 go-to platform to launch and discover new products |
 | 4 | [**Uneed**](https://uneed.best) | Curated list of the best tools on the internet |
